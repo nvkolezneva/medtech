@@ -1,4 +1,4 @@
-# PSYCHEA project
+# MEDTECH project
 
 Ссылка на макет в Figma:
 https://www.figma.com/file/qVGQ2iN2clPqCpwPKdMOVk/%D0%9C%D0%B5%D0%B4LMS?node-id=0%3A1
